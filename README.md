@@ -53,3 +53,17 @@ where "emptiest" and 'fullest" are determined using the total length of all vehi
 Using the function getFirst Lane in the supplied code as a guide, program the above rules (and perhaps others) and investigate their effects on the quality of your solution.
 
 * At the start of a run, you may wish to ask the user which of the above rules they want to use to load the ferry. In addition to text output, you may also wish to use various graphical outputs (charts) to illustrate your solutions. These can also be included in your report, if desired.
+
+# Task 2
+
+The ferry company has decided to invest some money at the port to try and further increase efficiencies. Sugges- tions include:
+
+1. Using five separate queues, one for each vehicle type (as defined in the table earlier). The ferry is then loaded using the lorry queue first, then the vans queue, then large cars, then medium cars, and then small cars.
+
+2. Keeping the current system of one queue but, in each step, taking the next k vehicles in the queue, reordering these k vehicles from longest to shortest, and then inserting each of these on to the ferry in turn.
+
+Using your best performing rule from Part 1, investigate the efficiency of these proposed strategies, and perhaps others, using input.txt.
+
+* The parameter k needs to be decided upon by the user and can range from 1 to n, where n is the total number of vehicles in the queue at the start of the boarding process. You may wish to experiment with differeet values here.
+
+* As before, you may also wish to use various graphical outputs (charts) to illustrate your solutions.
