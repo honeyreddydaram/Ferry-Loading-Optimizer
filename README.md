@@ -1,6 +1,6 @@
 # Ferry-Loading-Optimizer
 
-# Hackathon Challenge Statement.
+# Hackathon Statement:
 
 # Summary
 
