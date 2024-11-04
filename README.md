@@ -1,5 +1,7 @@
 # Ferry-Loading-Optimizer
 
+# Hackathon Challenge Statement.
+
 # Summary
 
 In this coursework you are to write a program that attempts to solve a problem involving loading vehicles on to a ferry. Your program will read in a problem instance from a file and will produce a solution using various simple optimisation techniques. You are also encouraged to alter various parameters to investigate the nature of the problem and your algorithm(s). Good programs will output information to the user during and after a run, and include graphical output.
